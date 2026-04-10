@@ -3,7 +3,7 @@ from discord import app_commands
 
 # ---------- CONFIG ----------
 TOKEN = "TU_TOKEN_AQUI"
-CANAL_ID = 123456789012345678  # ID del canal de bienvenida
+
 
 # ---------- CLIENT ----------
 class EcoBot(discord.Client):
